@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agent Research System
 
 A Python research automation system that uses a LangGraph-based multi-agent workflow to plan a research outline, collect web data, review content, and write a final report.
@@ -105,3 +106,6 @@ Captured from `requirements.txt`:
 - `reportlab`
 - `pydantic`
 - `python-dotenv`
+=======
+## Multi -Agent-Research And Report System
+>>>>>>> c39595195d91b56f278e050566ae1a2983e178b6
